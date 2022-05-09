@@ -1,0 +1,9 @@
+.keyboard {
+  margin: auto;
+  width: 704px;
+  padding: 6px;
+  background-color: #888888;
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
